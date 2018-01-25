@@ -19,13 +19,20 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
+body
+{
+
+	background-color: #424242;
+
+}
+
 /*=================================HEADER=====================================*/
 
 header 
 {
 
 	display: flex;
-	background-color: olive;
+	background-color: #777777;
 	flex-direction: column;
 	padding: 20px;
 
@@ -53,7 +60,7 @@ header nav ul
 	display: flex;
 	flex-direction: row;
 	justify-content: space-evenly;
-	background-color: goldenrod;
+	background-color: #424242;
 	padding: 10px;
 
 }
@@ -71,6 +78,7 @@ header nav ul li a
 {
 
 	text-decoration: none;
+	color: #BFBFBF;
 
 }
 
@@ -79,7 +87,8 @@ header nav ul li a
 #principal
 {
 
-	background-color: salmon;
+	background-color: #777777;
+
 
 }
 
@@ -95,6 +104,6 @@ header nav ul li a
 footer 
 {
 
-	background-color: chartreuse; 
+	background-color: #777777; 
 
 }
