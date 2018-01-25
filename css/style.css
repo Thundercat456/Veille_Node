@@ -24,6 +24,7 @@ header
 
 	display: flex;
 	background-color: olive;
+	flex-direction: column;
 
 }
 
