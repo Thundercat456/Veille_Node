@@ -26,3 +26,11 @@ header
 	background-color: olive;
 
 }
+
+header nav ul
+{
+
+	display: flex;
+	flex-direction: row;
+
+}
