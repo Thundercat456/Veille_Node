@@ -34,7 +34,8 @@ header
 	display: flex;
 	background-color: #777777;
 	flex-direction: column;
-	padding: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 
 }
 
@@ -49,7 +50,6 @@ header h1
 header nav
 {
 
-	margin: 10px;
 	margin-top: 20px;
 
 }
@@ -87,6 +87,8 @@ header nav ul li a
 #principal
 {
 
+	display: flex;
+	flex-direction: column;
 	background-color: #777777;
 
 
@@ -96,6 +98,14 @@ header nav ul li a
 {
 
 	font-size: 30px;
+	padding-left: 30px;
+
+}
+
+#principal section
+{
+
+	padding: 50px;
 
 }
 
@@ -104,6 +114,8 @@ header nav ul li a
 footer 
 {
 
+	display: flex;
+	margin-top: 20px;
 	background-color: #777777; 
 
 }
