@@ -75,7 +75,14 @@ header nav ul li a
 
 /*=================================BODY=====================================*/
 
-body h1
+#principal
+{
+
+	background-color: salmon;
+
+}
+
+#principal h1
 {
 
 	font-size: 30px;
