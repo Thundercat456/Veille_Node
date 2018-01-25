@@ -19,6 +19,8 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
+/*=================================HEADER=====================================*/
+
 header 
 {
 
@@ -68,5 +70,14 @@ header nav ul li a
 {
 
 	text-decoration: none;
+
+}
+
+/*=================================BODY=====================================*/
+
+body h1
+{
+
+	font-size: 30px;
 
 }
