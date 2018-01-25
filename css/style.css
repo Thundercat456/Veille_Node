@@ -23,6 +23,7 @@ body
 {
 
 	background-color: #424242;
+	font-family: 'Roboto', sans-serif;
 
 }
 
@@ -115,7 +116,15 @@ footer
 {
 
 	display: flex;
+	flex-direction: row-reverse;
 	margin-top: 20px;
 	background-color: #777777; 
+
+}
+
+footer p
+{
+
+	padding: 10px;
 
 }
